@@ -1,0 +1,14 @@
+{
+  "name": "barcos-mult",
+  "version": "0.1.0",
+  "description": "\"first app with sockets\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aldo medina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
