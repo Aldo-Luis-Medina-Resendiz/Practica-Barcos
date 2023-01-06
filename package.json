@@ -1,5 +1,5 @@
 {
-  "name": "barcos-mult",
+  "name": "get-post-practice",
   "version": "0.1.0",
   "description": "\"first app with sockets\"",
   "main": "index.js",
@@ -9,6 +9,15 @@
   "author": "aldo medina",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldo-Luis-Medina-Resendiz/Practica-Barcos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aldo-Luis-Medina-Resendiz/Practica-Barcos/issues"
+  },
+  "homepage": "https://github.com/Aldo-Luis-Medina-Resendiz/Practica-Barcos#readme"
 }
